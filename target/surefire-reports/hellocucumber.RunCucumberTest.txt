@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: hellocucumber.RunCucumberTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.249 s <<< FAILURE! - in hellocucumber.RunCucumberTest
-An example.The example  Time elapsed: 0.11 s  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.253 s <<< FAILURE! - in hellocucumber.RunCucumberTest
+An example.The example  Time elapsed: 0.115 s  <<< ERROR!
 io.cucumber.junit.platform.engine.UndefinedStepException: 
 The step 'an example scenario' and 2 other step(s) are undefined.
 You can implement these steps using the snippet(s) below:
