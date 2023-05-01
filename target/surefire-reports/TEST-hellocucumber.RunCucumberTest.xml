@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="hellocucumber.RunCucumberTest" time="0.249" tests="2" errors="1" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="hellocucumber.RunCucumberTest" time="0.295" tests="2" errors="1" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="MX"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\worsetti\AppData\Local\Temp\surefire5242059765276159941\surefirebooter-20230501114343186_3.jar C:\Users\worsetti\AppData\Local\Temp\surefire5242059765276159941 2023-05-01T11-43-42_650-jvmRun1 surefire-20230501114343186_1tmp surefire_0-20230501114343186_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\worsetti\AppData\Local\Temp\surefire3115995547686413530\surefirebooter-20230501111013971_3.jar C:\Users\worsetti\AppData\Local\Temp\surefire3115995547686413530 2023-05-01T11-10-13_379-jvmRun1 surefire-20230501111013971_1tmp surefire_0-20230501111013971_2tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\worsetti\Documents\REPOSITORIOS_GIT\cucumber\hellocucumber\target\test-classes;C:\Users\worsetti\Documents\REPOSITORIOS_GIT\cucumber\hellocucumber\target\classes;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-java\7.12.0\cucumber-java-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-core\7.12.0\cucumber-core-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-gherkin\7.12.0\cucumber-gherkin-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.12.0\cucumber-gherkin-messages-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\tag-expressions\5.0.1\tag-expressions-5.0.1.jar;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\worsetti\.m2\repository\io\cucumber\datatable\7.12.0\datatable-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-plugin\7.12.0\cucumber-plugin-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\docstring\7.12.0\docstring-7.12.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\html-formatter\20.3.0\html-formatter-20.3.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\worsetti\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\worsetti\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\worsetti\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.12.0\cucumber-junit-platform-engine-7.12.0.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-suite\1.9.3\junit-platform-suite-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.3\junit-platform-suite-api-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.3\junit-platform-suite-engine-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.3\junit-platform-suite-commons-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.3\junit-platform-launcher-1.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\worsetti\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\worsetti"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\worsetti\AppData\Local\Temp\surefire5242059765276159941\surefirebooter-20230501114343186_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\worsetti\AppData\Local\Temp\surefire3115995547686413530\surefirebooter-20230501111013971_3.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_171\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,23 +60,31 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="The example" classname="An example" time="0.11">
-    <error message="The step &apos;an example scenario&apos; and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;an example scenario&quot;)&#10;public void an_example_scenario() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;all step definitions are implemented&quot;)&#10;public void all_step_definitions_are_implemented() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;the scenario passes&quot;)&#10;public void the_scenario_passes() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.platform.engine.UndefinedStepException"><![CDATA[io.cucumber.junit.platform.engine.UndefinedStepException: 
-The step 'an example scenario' and 2 other step(s) are undefined.
+  <testcase name="The example" classname="An example" time="0.095">
+    <system-out><![CDATA[
+Scenario: The example                       &amp#27;[90m# hellocucumber/example.feature:3&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32man example scenario&amp#27;[0m                 &amp#27;[90m# hellocucumber.StepDefinitions.anExampleScenario()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mall step definitions are implemented&amp#27;[0m &amp#27;[90m# hellocucumber.StepDefinitions.allStepDefinitionsAreImplemented()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mthe scenario passes&amp#27;[0m                  &amp#27;[90m# hellocucumber.StepDefinitions.theScenarioPasses()&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Sunday isn&apos;t Friday" classname="Is it Friday yet?" time="0.059">
+    <error message="The step &apos;today is Sunday&apos; and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;today is Sunday&quot;)&#10;public void today_is_sunday() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;I ask whether it&apos;s Friday yet&quot;)&#10;public void i_ask_whether_it_s_friday_yet() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;I should be told {string}&quot;)&#10;public void i_should_be_told(String string) {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.platform.engine.UndefinedStepException"><![CDATA[io.cucumber.junit.platform.engine.UndefinedStepException: 
+The step 'today is Sunday' and 2 other step(s) are undefined.
 You can implement these steps using the snippet(s) below:
 
-@Given("an example scenario")
-public void an_example_scenario() {
+@Given("today is Sunday")
+public void today_is_sunday() {
     // Write code here that turns the phrase above into concrete actions
     throw new io.cucumber.java.PendingException();
 }
-@When("all step definitions are implemented")
-public void all_step_definitions_are_implemented() {
+@When("I ask whether it's Friday yet")
+public void i_ask_whether_it_s_friday_yet() {
     // Write code here that turns the phrase above into concrete actions
     throw new io.cucumber.java.PendingException();
 }
-@Then("the scenario passes")
-public void the_scenario_passes() {
+@Then("I should be told {string}")
+public void i_should_be_told(String string) {
     // Write code here that turns the phrase above into concrete actions
     throw new io.cucumber.java.PendingException();
 }
@@ -158,18 +166,10 @@ public void the_scenario_passes() {
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></error>
     <system-out><![CDATA[
-Scenario: The example                       &amp#27;[90m# hellocucumber/example.feature:3&amp#27;[0m
-  &amp#27;[33mGiven &amp#27;[0m&amp#27;[33man example scenario&amp#27;[0m
-  &amp#27;[36mWhen &amp#27;[0m&amp#27;[36mall step definitions are implemented&amp#27;[0m
-  &amp#27;[36mThen &amp#27;[0m&amp#27;[36mthe scenario passes&amp#27;[0m
-]]></system-out>
-  </testcase>
-  <testcase name="Sunday isn&apos;t Friday" classname="Is it Friday yet?" time="0.016">
-    <system-out><![CDATA[
 Scenario: Sunday isn't Friday        &amp#27;[90m# hellocucumber/is_it_friday_yet.feature:4&amp#27;[0m
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mtoday is Sunday&amp#27;[0m              &amp#27;[90m# hellocucumber.StepDefinitions.today_is_Sunday()&amp#27;[0m
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI ask whether it's Friday yet&amp#27;[0m &amp#27;[90m# hellocucumber.StepDefinitions.i_ask_whether_it_s_Friday_yet()&amp#27;[0m
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI should be told &amp#27;[0m&amp#27;[32m&amp#27;[1m"Nope"&amp#27;[0m       &amp#27;[90m# hellocucumber.StepDefinitions.i_should_be_told(java.lang.String)&amp#27;[0m
+  &amp#27;[33mGiven &amp#27;[0m&amp#27;[33mtoday is Sunday&amp#27;[0m
+  &amp#27;[36mWhen &amp#27;[0m&amp#27;[36mI ask whether it's Friday yet&amp#27;[0m
+  &amp#27;[36mThen &amp#27;[0m&amp#27;[36mI should be told "Nope"&amp#27;[0m
 ]]></system-out>
   </testcase>
 </testsuite>
